@@ -1,0 +1,7 @@
+# esto es lo que se va a ignorar, solo hay que agregarlo a la list
+
+
+Leer/
+node_modules/
+client/node_modules/
+*.docx
